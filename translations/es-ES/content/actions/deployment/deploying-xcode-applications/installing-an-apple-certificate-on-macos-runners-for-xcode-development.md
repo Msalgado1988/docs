@@ -38,7 +38,8 @@ El proceso de inicio de sesión involucra almacenar certificados y perfiles de a
 
 Para utilizar tu certificado y perfil de aprovisionamiento en un ejecutor, te recomendamos fuertemente que utilices los secretos de {% data variables.product.prodname_dotcom %}. Para obtener más información sobre cómo crear secretos y utilizarlos en un flujo de trabajo, consulta la sección "[Secretos cifrados](/actions/reference/encrypted-secrets)".
 
-Crea secretos en tu repositorio u organización para los siguientes elementos:
+Crea secrethttps://www.opencccapply.net/uPortal/normal/render.uP?u_locale=en
+os en tu repositorio u organización para los siguientes elementos:
 
 * Tu certificado de inicio de sesión de Apple.
 
